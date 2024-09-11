@@ -2,17 +2,20 @@
 
 This is a demo code to show modifications required to use I2C devices through the Qwiic port on the newer Arduino R4 boards.
 
-<img src="images/overview.jpg" alt="Circuit overview" width="30%" />
-<img src="images/display-readings.jpeg" alt="Readings displayed on the e-paper display" width="30%" />
+<span>
+    <img src="images/overview.jpg" alt="Circuit overview" width="30%" />
+    <img src="images/display-readings.jpeg" alt="Readings displayed on the e-paper display" width="30%" />
+</span>
+
 
 ## Prerequisites
 - Arduino R4
-- Waveshare 1.54 inch E-paper display
-- Adafruit MAX17048 LiPo Battery Monitor
-- SparkFun/Piicodev VEML6030 Ambient Light Sensor
-- Adafruit BME688 - Temperature, Humidity, Pressure and Gas Sensor
-- DFRobot Gravity I2C Digital Wattmeter - INA219
-- Adafruit NeoPixel Ring Light
+- Waveshare 1.54 inch E-paper display [[link]](https://www.waveshare.com/1.54inch-e-paper-module.htm)
+- Adafruit MAX17048 LiPo Battery Monitor [[link]](https://www.adafruit.com/product/5580)
+- SparkFun/Piicodev VEML6030 Ambient Light Sensor [[link]](https://www.sparkfun.com/products/15436)
+- Adafruit BME688 - Temperature, Humidity, Pressure and Gas Sensor [[link]](https://www.adafruit.com/product/5046)
+- DFRobot Gravity I2C Digital Wattmeter - INA219 [[link]](https://www.dfrobot.com/product-1827.html)
+- Adafruit NeoPixel Ring Light [[link]](https://www.adafruit.com/product/1463)
 
 ## Software libraries
 
