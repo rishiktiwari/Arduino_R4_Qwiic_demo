@@ -2,6 +2,10 @@
 
 This is a demo code to show modifications required to use I2C devices through the Qwiic port on the newer Arduino R4 boards.
 
+📀 [Demo Video](https://youtu.be/SrD6xGvQST8)
+
+> NOTE: If arduino is unable to open the full_test.ino file then rename to directory name (Arduino_R4_Qwiic_demo.ino)
+
 <span>
     <img src="images/overview.jpg" alt="Circuit overview" width="30%" />
     <img src="images/display-readings.jpeg" alt="Readings displayed on the e-paper display" width="30%" />
